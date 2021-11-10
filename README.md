@@ -10,7 +10,7 @@
 
 - Docker
 - Heroku
-- Postaman
+- Postman
 
 ## Enpoints 
 ### 1. Cadastro
